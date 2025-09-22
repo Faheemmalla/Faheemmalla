@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full Ios development**
 
-- 💬 Ask me about **Swift, Python, Java, C, OOP, problem-solving, iOS app developmen**
+- 💬 Ask me about **Swift,iOS app development, Python, Java, C, OOP, problem-solving**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
