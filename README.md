@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Faheem Yousuf</h1>
-<h3 align="center">🚀 A passionate iOS Developer from India</h3>
+<h1 align="center">Hi 👋, I'm Faheem Yousuf Malla </h1>
+<h3 align="center">Creative iOS Developer from India | Turning ideas into apps</h3>
 
 # 💫 About Me:
 - 🔭 I’m currently working on: [Infinity](https://github.com/Faheemmalla/infinity.git)  
-- 🌱 I’m currently learning: **Full iOS Development (SwiftUI, UIKit, ARKit)**  
-- 💬 Ask me about: **Swift, iOS App Development, Python, Java, C, OOP, Problem-solving**  
+- 🌱 I’m currently learning: **Full iOS Development (SwiftUI, UIKit, ARKit,CoreML....)**  
+- 💬 Ask me about: **Swift, iOS App Development, Python, Java, C, OOPS, Problem-solving**  
 - ⚡ Fun fact: I’m on a **1001 Days LeetCode Challenge** and love solving DSA problems daily!  
 
 ---
@@ -17,8 +17,7 @@
 ---
 
 # 💻 Tech Stack:
-![Swift](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white)  
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)  
+![Swift](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white)   
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
