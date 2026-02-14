@@ -1,40 +1,41 @@
-<h1 align="center">Hi 👋, I'm Faheem Yousuf Malla </h1>
-<h3 align="center">Creative iOS Developer from India | Turning ideas into apps</h3>
+# Faheem Yousuf Malla
+**Machine Learning Engineer**
 
-# 💫 About Me:
-- 🔭 I’m currently working on: [Infinity](https://github.com/Faheemmalla/infinity.git)  
-- 🌱 I’m currently learning: **Full iOS Development (SwiftUI, UIKit, ARKit,CoreML....)**  
-- 💬 Ask me about: **Swift, iOS App Development, Python, Java, C, OOPS, Problem-solving**  
-- ⚡ Fun fact: I’m on a **1001 Days LeetCode Challenge** and love solving DSA problems daily!  
+India
 
 ---
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faheemyousufmalla)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faheem.yousuf2004@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/Faheemmalla)  
+## About
+
+iOS developer with expertise in Swift, UIKit, and SwiftUI. Currently expanding skills in ARKit and CoreML.
+
+Strong foundation in machine learning, SQL, and C++.
 
 ---
 
-# 💻 Tech Stack:
-![Swift](https://img.shields.io/badge/swift-F05138?style=for-the-badge&logo=swift&logoColor=white)   
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  
+## Current Focus
+
+- Building [Infinity](https://github.com/Faheemmalla/infinity.git)
+- Daily DSA practice (1001-day challenge)
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Faheemmalla&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Faheemmalla&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Faheemmalla&theme=blueberry&hide_border=false&layout=compact)
+## Technical Skills
+
+Swift • Python • C++ • SQL • Java • C
+
+iOS Development • Machine Learning • Problem Solving
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## Connect
+
+[LinkedIn](https://linkedin.com/in/faheemyousufmalla) • [GitHub](https://github.com/Faheemmalla) • [Email](mailto:faheem.yousuf2004@gmail.com)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Faheemmalla&icon=0&color=0)](https://visitcount.itsvg.in)
+## GitHub Stats
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Faheemmalla&show_icons=true&theme=graywhite&hide_border=true)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Faheemmalla&layout=compact&theme=graywhite&hide_border=true)
