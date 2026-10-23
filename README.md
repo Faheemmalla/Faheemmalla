@@ -1,14 +1,13 @@
 # Hi, I'm Faheem
 
-AI Engineer building **machine learning systems and AI agents for real-world applications**.
 
-## About
+Building AI-powered applications and intelligent systems, focusing on Generative AI, AI Agents, RAG, and Computer Vision.
 
-- Currently working as an **AI Engineer Intern**  
-- Focused on **machine learning and AI agents** for solving real-world problems  
-- Strong emphasis on **problem-solving and system design**  
-- Building **LLM-integrated workflows and intelligent automation systems**
-  
-## Connect
+### Tech Stack
 
-[LinkedIn](https://linkedin.com/in/faheemyousufmalla) • [GitHub](https://github.com/Faheemmalla) • [Email](mailto:faheem.yousuf2004@gmail.com)
+- **AI Engineering:** LLM Evals, MCP, AI Agents, Generative AI, RAG, Vector Databases
+- **Machine Learning:** Machine Learning, Deep Learning, Scikit-learn, TensorFlow, PyTorch
+- **Programming Languages:** Python, Java, C++
+- **Backend:** FastAPI, Docker
+- **Developer Tools:** Git, GitHub
+- **Cloud:** AWS
